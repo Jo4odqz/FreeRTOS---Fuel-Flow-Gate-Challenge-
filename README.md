@@ -31,6 +31,8 @@ A `InjectorTask` fica bloqueada aguardando a liberação desse semáforo. Quando
 ## Visualização do Circuito
 
 ![Visualização do Circuito Simulado](esp_view.png)
+![Visualização do Circuito Real](circuito_real.jpg)
+
 
 
 ## Vídeo de Demonstração
