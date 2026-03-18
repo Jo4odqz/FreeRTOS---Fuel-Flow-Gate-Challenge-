@@ -30,8 +30,10 @@ A `InjectorTask` fica bloqueada aguardando a liberação desse semáforo. Quando
 
 ## Visualização do Circuito
 
+![Visualização do Circuito Simulado](esp_view.png)
+
 
 ## Vídeo de Demonstração
 Abaixo está a demonstração prática do sistema em funcionamento. O vídeo mostra o LED Verde operando normalmente mesmo quando o "cheat" está ativo, e o LED Vermelho acendendo apenas quando a falha na sincronização é induzida.
  
-🔗 **[LINK VÍDEO DO YOUTUBE]**
+🔗 **[LINK VÍDEO]**
