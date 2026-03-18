@@ -28,12 +28,10 @@ A `SensorTask` dita o ritmo do sistema usando `vTaskDelayUntil` para garantir a 
 
 A `InjectorTask` fica bloqueada aguardando a liberação desse semáforo. Quando ativada no modo *cheat*, ela eleva o combustível para 120, aguarda 29ms e reduz rapidamente para 100 pouco antes de o sensor acordar no milissegundo 30, enganando perfeitamente a fiscalização. Caso a falha seja induzida pelos switches, um atraso de 5ms extra é inserido, impedindo a redução a tempo e acionando a detecção da fraude (LED Vermelho).
 
-## Evidências e Demonstração
+## Visualização do Circuito
 
-### Monitor Serial e Circuito
-*(Substitua este texto por capturas de tela do monitor serial ou fotos do circuito mostrando o sistema operando nos três modos)*
 
-### Vídeo de Demonstração
+## Vídeo de Demonstração
 Abaixo está a demonstração prática do sistema em funcionamento. O vídeo mostra o LED Verde operando normalmente mesmo quando o "cheat" está ativo, e o LED Vermelho acendendo apenas quando a falha na sincronização é induzida.
  
-🔗 **[INSERIR AQUI O LINK DO SEU VÍDEO DO YOUTUBE]**
+🔗 **[LINK VÍDEO DO YOUTUBE]**
